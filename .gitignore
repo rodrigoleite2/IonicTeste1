@@ -1,5 +1,27 @@
+<<<<<<< HEAD
 node_modules/
 www/build/
 platforms/
 plugins/
 .DS_Store
+=======
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 3199822ee8b0da4148920744315379451a8e51c6
